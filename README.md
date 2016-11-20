@@ -1,4 +1,4 @@
-#Markris
+#cziberez_vedes5
 vedes5
 
-Molnár Márk Csaba & Kovács Kristóf ötödik védése. Közös munka. Firebase, fícsörök...etc. 
+Czibere Zoltán Ádám 5. védés - Firebase + Readme fül
